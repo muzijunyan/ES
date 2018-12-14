@@ -2,19 +2,7 @@
 
 A collection of some interesting Javascript functions:
 
-## 1. Fibonacci number
-
-```console
-$ node fibonacci
-[ 1 ]
-[ 1, 1 ]
-[ 1, 1, 2 ]
-[ 1, 1, 2, 3, 5 ]
-[ 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ]
-...
-```
-
-## 2. Continuation-passing style
+## 1. Continuation-passing style
 
 Write a factorial function in continuation-passing style:
 
@@ -32,7 +20,7 @@ $ node factorial
 720 
 ```
 
-## 3 Generator
+## 2 Generator
 
 Define a generator object with ```function*``` to return a lazy sequence of values:
 
